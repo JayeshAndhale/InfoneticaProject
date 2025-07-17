@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "9euKPTDibxxMB6D3sDKzPncU768kQ2lHrSwTjPghTg0=",
+  "Source": "InfoneticaWorkflowEngine",
+  "BasePath": "_content/InfoneticaWorkflowEngine",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "InfoneticaWorkflowEngine\\wwwroot",
+      "Source": "InfoneticaWorkflowEngine",
+      "ContentRoot": "C:\\VS Code\\InfoneticaWorkflowEngine\\InfoneticaWorkflowEngine\\wwwroot\\",
+      "BasePath": "_content/InfoneticaWorkflowEngine",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}
